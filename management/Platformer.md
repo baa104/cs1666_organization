@@ -29,7 +29,7 @@
 		1. GOALHERE
 		...
 1. 11/10 - 11/16
-	* Manager: NAME
+	* Manager: Bryce Anderson
 	* Goals:
 		1. GOALHERE
 		...
