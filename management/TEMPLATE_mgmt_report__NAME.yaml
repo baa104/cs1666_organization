@@ -4,7 +4,7 @@ week: 9
 # Specific goals:
 goals:
   - desc: "Continue to identify and fix bugs"
-    prs: [72, 75, 76, 82, 84, 86, 89, 103, 104]
+    prs: [72, 75, 76, 82, 84, 86, 89, 103, 104, 105]
     status: "Completed"
   - desc: "Have a playable multiplayer map"
     prs: [73, 83, 85, 86, 88, 90, 91, 92, 93, 94, 101]
@@ -23,11 +23,11 @@ team_members:
 #Andrew
   PITTIDHERE: ata33
     score: 0
-    desc: ""
+    desc: "Helped get the two machines working together for multiplayer"
 #Alvyn
   PITTIDHERE: apb62
-    score: 0
-    desc: ""
+    score: 2
+    desc: "Lots of multiplayer issues: multithreading, potion data, level progression. and also the loading screen now used in credits"
 #Austin
   PITTIDHERE: arb204
     score: 0
@@ -51,7 +51,7 @@ team_members:
 #Jake
   PITTIDHERE: jms608
     score: 0
-    desc: ""
+    desc: "Implemented dash, helped with block collision"
 #Kira
   PITTIDHERE: mat253
     score: 0
