@@ -1,19 +1,58 @@
 # Magagment week end report
-manager_name: ""
-week: 1
+manager_name: "Bryce Anderson"
+week: 9
 # Specific goals:
-goal:
-  - desc: ""
+goals:
+  - desc: "Continue to identify and fix bugs"
     prs: []
     status: ""
-  - desc: ""
+  - desc: "Have a playable multiplayer map"
+    prs: []
+    status: ""    
+  - desc: "Implement ellipsoid collisions"
+    prs: []
+    status: ""
+  - desc: "Implement proper collision resolution for the box"
+    prs: []
+    status: ""
+  - desc: "Implement stretch goals (dash, throwable potions)"
     prs: []
     status: ""
 # Team member evalution
 team_members:
-  PITTIDHERE:
+#Andrew
+  PITTIDHERE: ata33
     score: 0
     desc: ""
-  PITTIDHERE:
+#Alvyn
+  PITTIDHERE: apb62
+    score: 0
+    desc: ""
+#Austin
+  PITTIDHERE: arb204
+    score: 0
+    desc: ""
+#Evan
+  PITTIDHERE: ecm61
+    score: 0
+    desc: ""
+#Greg
+  PITTIDHERE: grs76
+    score: 0
+    desc: ""
+#Bryce
+  PITTIDHERE: baa104
+    score: 0
+    desc: ""
+#Josh
+  PITTIDHERE: jcm155
+    score: 0
+    desc: ""
+#Jake
+  PITTIDHERE: jms608
+    score: 0
+    desc: ""
+#Kira
+  PITTIDHERE: mat253
     score: 0
     desc: ""
