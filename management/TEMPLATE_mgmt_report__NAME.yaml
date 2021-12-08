@@ -31,23 +31,23 @@ team_members:
 #Austin
   PITTIDHERE: arb204
     score: 0
-    desc: ""
+    desc: "Worked on multiplayer portals, sending wand data between players, and other multiplayer consistency issues"
 #Evan
   PITTIDHERE: ecm61
     score: 0
-    desc: ""
+    desc: "Helped with networking"
 #Greg
   PITTIDHERE: grs76
     score: 0
-    desc: ""
+    desc: "Worked on multiplayer level progression and modified credits"
 #Bryce
   PITTIDHERE: baa104
-    score: 0
-    desc: ""
+    score: -1
+    desc: "Mostly just reviewed and merged pull requests"
 #Josh
   PITTIDHERE: jcm155
     score: 0
-    desc: ""
+    desc: "Implemented double jump and throwable potions"
 #Jake
   PITTIDHERE: jms608
     score: 0
@@ -55,4 +55,4 @@ team_members:
 #Kira
   PITTIDHERE: mat253
     score: 0
-    desc: ""
+    desc: "Worked on blocks"
